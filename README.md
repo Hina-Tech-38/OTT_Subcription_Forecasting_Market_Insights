@@ -32,7 +32,10 @@ It uses historical subscription data to forecast future subscribers, helping med
 
 ## 🖥️ App Preview
 
-> 🎥 *Netflix-inspired dashboard with an elegant dark theme*  
+> 🎥 *Netflix-inspired dashboard with an elegant dark theme*
+>
+> ![Dashboard Screenshot](./netflix_dashboard_main.png)
+
 > - Red and black color palette  
 > - Card-style sections  
 > - Interactive forecasting visualizations  
