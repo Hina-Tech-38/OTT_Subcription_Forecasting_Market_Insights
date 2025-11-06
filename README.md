@@ -1,7 +1,7 @@
 # 🎬 OTT Subscription Forecasting and Market Insights
 
-This **Streamlit-based data science app** analyzes and forecasts subscription growth for OTT platforms using **time series forecasting (Prophet)**.  
-Inspired by Netflix’s aesthetics, it visualizes subscriber trends, forecasts future counts, and reveals actionable business insights for the OTT market.
+This **Streamlit-based data science app** analyzes and forecasts subscription growth for OTT platforms using **time series forecasting ARIMA**.  
+Dataset is mocked dataset of Netflix and UI is Inspired by Netflix’s aesthetics, it visualizes subscriber trends, forecasts future counts, and reveals actionable business insights for the OTT market.
 
 ---
 
