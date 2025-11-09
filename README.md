@@ -13,7 +13,7 @@ It uses historical subscription data to forecast future subscribers, helping med
 **Key Features:**
 - Upload or use sample OTT (Netflix-style) subscription data (2014–2024)
 - Visualize historical subscriber growth trends  
-- Forecast future subscriptions using **Facebook Prophet**  
+- Forecast future subscriptions using **ARIMA**  
 - Explore **trend and seasonality components**  
 - Netflix-themed red and black UI 🎨  
 
