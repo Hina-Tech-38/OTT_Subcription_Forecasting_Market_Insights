@@ -24,7 +24,7 @@ It uses historical subscription data to forecast future subscribers, helping med
 1. **Collect historical subscription growth data**  
 2. **Clean and preprocess** for time series consistency  
 3. **Explore and visualize** trends over time  
-4. **Select a forecasting model** (Prophet)  
+4. **Select a forecasting model** (ARIMA)  
 5. **Train the model** on historical data  
 6. **Forecast future subscription counts** for the next quarters  
 
